@@ -10,7 +10,7 @@ you can use them with the standard function from the original documentation.
 |:-----------:|:---------------------------------------:|:-------------------------------------------:|
 | ![fog][fog] | ![partly-cloudy-day][partly-cloudy-day] | ![partly-cloudy-night][partly-cloudy-night] |
 
-| clear-day                   | clear-night             | cloudy            |
+| clear-night                 | clear-day               | cloudy            |
 |:---------------------------:|:-----------------------:|:-----------------:|
 | ![clear-night][clear-night] | ![clear-day][clear-day] | ![cloudy][cloudy] |
 
@@ -40,7 +40,7 @@ you can use them with the standard function from the original documentation.
 |:--------------:|:------------------------------------------:|:----------------------------------------------:|
 | ![fog][fog-sd] | ![partly-cloudy-day][partly-cloudy-day-sd] | ![partly-cloudy-night][partly-cloudy-night-sd] |
 
-| clear-day                      | clear-night                | cloudy               |
+| clear-night                    | clear-day                  | cloudy               |
 |:------------------------------:|:--------------------------:|:--------------------:|
 | ![clear-night][clear-night-sd] | ![clear-day][clear-day-sd] | ![cloudy][cloudy-sd] |
 
