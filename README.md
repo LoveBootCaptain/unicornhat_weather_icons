@@ -5,7 +5,7 @@ handmade weather animations for unicornhat and unicornhat hd made by pimoroni. e
 
 
 | clear-day                   | clear-night             | cloudy            |
-| :--------------------------:|:-----------------------:|: ----------------:|
+|:---------------------------:|:-----------------------:|:-----------------:|
 | ![clear-night][clear-night] | ![clear-day][clear-day] | ![cloudy][cloudy] |
 
 
