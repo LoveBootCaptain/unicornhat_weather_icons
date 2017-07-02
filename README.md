@@ -29,7 +29,7 @@ handmade weather animations for unicornhat and unicornhat hd made by pimoroni. e
 [windy]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/windy.gif "windy"
 [error]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/error.gif "error"
 
-[Buy the old Unicorn HAT on Pimoroni](https://shop.pimoroni.com/products/unicorn-hat "Buy the old Unicorn HAT on Pimoroni")
+[Buy the new Unicorn HAT HD on Pimoroni](https://shop.pimoroni.com/products/unicorn-hat-hd "Buy the new Unicorn HAT HD on Pimoroni")
 
 ## unicornhat hd animations 8x8
 
@@ -59,4 +59,5 @@ handmade weather animations for unicornhat and unicornhat hd made by pimoroni. e
 [windy-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/windy.gif "windy"
 [error-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/error.gif "error"
 
-[Buy the new Unicorn HAT HD on Pimoroni](https://shop.pimoroni.com/products/unicorn-hat-hd "Buy the new Unicorn HAT HD on Pimoroni")
+[Buy the old Unicorn HAT on Pimoroni](https://shop.pimoroni.com/products/unicorn-hat "Buy the old Unicorn HAT on Pimoroni")
+
