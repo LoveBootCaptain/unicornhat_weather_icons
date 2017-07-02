@@ -8,7 +8,7 @@ you can test them with the show-png.py example from the original documentation.
 I will add an own test-loop for all icons later.
 
 
-## unicornhat hd animations 16x16
+## new unicornhat hd animations 16x16
 
 | fog         | partly-cloudy-day                       | partly-cloudy-night                         |
 |:-----------:|:---------------------------------------:|:-------------------------------------------:|
@@ -38,7 +38,7 @@ I will add an own test-loop for all icons later.
 
 [Buy the new Unicorn HAT HD on Pimoroni](https://shop.pimoroni.com/products/unicorn-hat-hd "Buy the new Unicorn HAT HD on Pimoroni")
 
-## unicornhat hd animations 8x8
+## old unicornhat animations 8x8
 
 | fog            | partly-cloudy-day                          | partly-cloudy-night                            |
 |:--------------:|:------------------------------------------:|:----------------------------------------------:|
