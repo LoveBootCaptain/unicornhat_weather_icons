@@ -10,7 +10,7 @@ I will add an own test-loop for all icons later.
 
 ## new unicornhat hd animations 16x16
 
-|                             | new unicornhat hd animations 16x16      |                                             |
+|                             |                                         |                                             |
 |:---------------------------:|:---------------------------------------:|:-------------------------------------------:|
 | fog                         | partly-cloudy-day                       | partly-cloudy-night                         |
 | ![fog][fog]                 | ![partly-cloudy-day][partly-cloudy-day] | ![partly-cloudy-night][partly-cloudy-night] |
