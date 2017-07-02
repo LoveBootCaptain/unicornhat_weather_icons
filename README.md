@@ -1,2 +1,2 @@
-# unicornhat_waether_icons
+# animated weather icons for the unicornhat and unicornhat hd
 handmade weather animations for unicornhat and unicornhat hd made by pimoroni. each animation is made of 32 handmade mini pictures combined to a sprite in the png folder. you will also find some gif's (1000% resized for better presentation) in the animation folder. in the master folder you will find the master .ase file which is a file format for the pixel art studio 'aseprite', the tool i used to make these animations on a mac.
