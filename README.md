@@ -18,9 +18,9 @@ I will add an own test-loop for all icons later.
 |:---------------------------:|:-----------------------:|:-----------------:|
 | ![clear-night][clear-night] | ![clear-day][clear-day] | ![cloudy][cloudy] |
 
-| rain          | snow          | windy           | error           |
-|:-------------:|:-------------:|:---------------:|:---------------:|
-| ![rain][rain] | ![snow][snow] | ![windy][windy] | ![error][error] |
+| rain          | snow          | windy           | error           | raspberry               |
+|:-------------:|:-------------:|:---------------:|:---------------:|:-----------------------:|
+| ![rain][rain] | ![snow][snow] | ![windy][windy] | ![error][error] | ![raspberry][raspberry] |
 
 
 [clear-day]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/clear-day.gif "clear-day"
@@ -35,6 +35,7 @@ I will add an own test-loop for all icons later.
 [snow]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/snow.gif "snow"
 [windy]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/windy.gif "windy"
 [error]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/error.gif "error"
+[raspberry]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/raspberry.gif "raspberry"
 
 [Buy the new Unicorn HAT HD on Pimoroni](https://shop.pimoroni.com/products/unicorn-hat-hd "Buy the new Unicorn HAT HD on Pimoroni")
 
