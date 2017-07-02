@@ -101,3 +101,12 @@ ENV/
 .mypy_cache/
 /master/
 /.idea/vcs.xml
+.DS_Store
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/unicornhat_weather_icons.iml
+.idea/workspace.xml
+animation/.DS_Store
+png/.DS_Store
