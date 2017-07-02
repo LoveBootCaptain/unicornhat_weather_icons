@@ -1,7 +1,11 @@
 # animated weather icons for the unicornhat and unicornhat hd
 handmade weather animations for unicornhat and unicornhat hd made by pimoroni. each hd animation is made of 32 handmade mini pictures, the sd version from 8-16 handmade mini-mini pictures, combined to a sprite. you will also find some gif's (1000% resized for better presentation) in the animation folder.
 
-you can test them with the show-png.py example from the original documentation. I will add an own test-loop for all icons later.
+you can test them with the show-png.py example from the original documentation.
+
+[pimoroni's show-png example](https://github.com/pimoroni/unicorn-hat-hd/blob/master/examples/show-png.py "pimoroni's show-png example")
+
+I will add an own test-loop for all icons later.
 
 
 ## unicornhat hd animations 16x16
