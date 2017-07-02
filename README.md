@@ -10,17 +10,16 @@ I will add an own test-loop for all icons later.
 
 ## new unicornhat hd animations 16x16
 
-| fog         | partly-cloudy-day                       | partly-cloudy-night                         |
-|:-----------:|:---------------------------------------:|:-------------------------------------------:|
-| ![fog][fog] | ![partly-cloudy-day][partly-cloudy-day] | ![partly-cloudy-night][partly-cloudy-night] |
-
-| clear-night                 | clear-day               | cloudy            |
-|:---------------------------:|:-----------------------:|:-----------------:|
-| ![clear-night][clear-night] | ![clear-day][clear-day] | ![cloudy][cloudy] |
-
-| rain          | snow          | windy           | error           | raspberry               |
-|:-------------:|:-------------:|:---------------:|:---------------:|:-----------------------:|
-| ![rain][rain] | ![snow][snow] | ![windy][windy] | ![error][error] | ![raspberry][raspberry] |
+|                             | new unicornhat hd animations 16x16      |                                             |
+|:---------------------------:|:---------------------------------------:|:-------------------------------------------:|
+| fog                         | partly-cloudy-day                       | partly-cloudy-night                         |
+| ![fog][fog]                 | ![partly-cloudy-day][partly-cloudy-day] | ![partly-cloudy-night][partly-cloudy-night] |
+| clear-night                 | clear-day                               | cloudy                                      |
+| ![clear-night][clear-night] | ![clear-day][clear-day]                 | ![cloudy][cloudy]                           |
+| rain                        | snow                                    | windy                                       |
+| ![rain][rain]               | ![snow][snow]                           | ![windy][windy]                             |
+| error                       | raspberry                               |                                             |
+| ![error][error]             | ![raspberry][raspberry]                 |                                             |
 
 
 [clear-day]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/clear-day.gif "clear-day"
@@ -34,6 +33,7 @@ I will add an own test-loop for all icons later.
 [rain]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/rain.gif "rain"
 [snow]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/snow.gif "snow"
 [windy]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/windy.gif "windy"
+
 [error]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/error.gif "error"
 [raspberry]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/raspberry.gif "raspberry"
 
