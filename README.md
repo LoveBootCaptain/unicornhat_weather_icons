@@ -4,11 +4,12 @@ handmade weather animations for unicornhat and unicornhat hd made by pimoroni. e
 ## unicornhat hd animations
 
 
-clear-day
-![clear-day][clear-day]
-clear-night
-![clear-night][clear-night]
+| clear-day                   | clear-night             | cloudy            |
+| :--------------------------:|:-----------------------:|: ----------------:|
+| ![clear-night][clear-night] | ![clear-day][clear-day] | ![cloudy][cloudy] |
+
 
 
 [clear-day]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/clear-day.gif "clear-day"
 [clear-night]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/clear-night.gif "clear-night"
+[cloudy]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/cloudy.gif "cloudy"
