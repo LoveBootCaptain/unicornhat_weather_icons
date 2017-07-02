@@ -3,19 +3,17 @@ handmade weather animations for unicornhat and unicornhat hd made by pimoroni. e
 
 ## unicornhat hd animations 16x16
 
+| fog         | partly-cloudy-day                       | partly-cloudy-night                         |
+|:-----------:|:---------------------------------------:|:-------------------------------------------:|
+| ![fog][fog] | ![partly-cloudy-day][partly-cloudy-day] | ![partly-cloudy-night][partly-cloudy-night] |
 
 | clear-day                   | clear-night             | cloudy            |
 |:---------------------------:|:-----------------------:|:-----------------:|
 | ![clear-night][clear-night] | ![clear-day][clear-day] | ![cloudy][cloudy] |
 
-| fog         | partly-cloudy-day                       | partly-cloudy-night                         |
-|:-----------:|:---------------------------------------:|:-------------------------------------------:|
-| ![fog][fog] | ![partly-cloudy-day][partly-cloudy-day] | ![partly-cloudy-night][partly-cloudy-night] |
-
-| rain          | snow          | windy           |
-|:-------------:|:-------------:|:---------------:|
-| ![rain][rain] | ![snow][snow] | ![windy][windy] |
-
+| rain          | snow          | windy           | error           |
+|:-------------:|:-------------:|:---------------:|:---------------:|
+| ![rain][rain] | ![snow][snow] | ![windy][windy] | ![error][error] |
 
 
 [clear-day]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/clear-day.gif "clear-day"
@@ -29,22 +27,21 @@ handmade weather animations for unicornhat and unicornhat hd made by pimoroni. e
 [rain]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/rain.gif "rain"
 [snow]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/snow.gif "snow"
 [windy]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/windy.gif "windy"
-
+[error]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/error.gif "error"
 
 ## unicornhat hd animations 8x8
-
-| clear-day                      | clear-night                | cloudy               |
-|:------------------------------:|:--------------------------:|:--------------------:|
-| ![clear-night][clear-night-sd] | ![clear-day][clear-day-sd] | ![cloudy][cloudy-sd] |
 
 | fog            | partly-cloudy-day                          | partly-cloudy-night                            |
 |:--------------:|:------------------------------------------:|:----------------------------------------------:|
 | ![fog][fog-sd] | ![partly-cloudy-day][partly-cloudy-day-sd] | ![partly-cloudy-night][partly-cloudy-night-sd] |
 
-| rain             | snow             | windy              |
-|:----------------:|:----------------:|:------------------:|
-| ![rain][rain-sd] | ![snow][snow-sd] | ![windy][windy-sd] |
+| clear-day                      | clear-night                | cloudy               |
+|:------------------------------:|:--------------------------:|:--------------------:|
+| ![clear-night][clear-night-sd] | ![clear-day][clear-day-sd] | ![cloudy][cloudy-sd] |
 
+| rain             | snow             | windy              | error              |
+|:----------------:|:----------------:|:------------------:|:------------------:|
+| ![rain][rain-sd] | ![snow][snow-sd] | ![windy][windy-sd] | ![error][error-sd] |
 
 
 [clear-day-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/clear-day.gif "clear-day"
@@ -58,3 +55,4 @@ handmade weather animations for unicornhat and unicornhat hd made by pimoroni. e
 [rain-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/rain.gif "rain"
 [snow-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/snow.gif "snow"
 [windy-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/windy.gif "windy"
+[error-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/error.gif "error"
