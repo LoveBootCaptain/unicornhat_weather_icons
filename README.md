@@ -17,7 +17,7 @@ I will add an own test-loop for all icons later.
 | clear-night                 | clear-day                               | cloudy                                      |
 | ![clear-night][clear-night] | ![clear-day][clear-day]                 | ![cloudy][cloudy]                           |
 | rain                        | snow                                    | windy                                       |
-| ![rain][rain]               | ![snow][snow]                           | ![windy][windy]                             |
+| ![rain][rain]               | ![snow][snow]                           | ![wind][wind]                             |
 | error                       | raspberry                               | pimoroni pirate                             |
 | ![error][error]             | ![raspberry][raspberry]                 | ![pimoroni_pirate][pimoroni_pirate]         |
 
@@ -32,7 +32,7 @@ I will add an own test-loop for all icons later.
 
 [rain]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/rain.gif "rain"
 [snow]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/snow.gif "snow"
-[windy]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/windy.gif "windy"
+[wind]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/wind.gif "windy"
 
 [error]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/error.gif "error"
 [raspberry]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/HD/raspberry.gif "raspberry"
