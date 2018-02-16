@@ -16,7 +16,7 @@ I will add an own test-loop for all icons later.
 | ![fog][fog]                 | ![partly-cloudy-day][partly-cloudy-day] | ![partly-cloudy-night][partly-cloudy-night] |
 | clear-night                 | clear-day                               | cloudy                                      |
 | ![clear-night][clear-night] | ![clear-day][clear-day]                 | ![cloudy][cloudy]                           |
-| rain                        | snow                                    | windy                                       |
+| rain                        | snow                                    | wind                                       |
 | ![rain][rain]               | ![snow][snow]                           | ![wind][wind]                             |
 | error                       | raspberry                               | pimoroni pirate                             |
 | ![error][error]             | ![raspberry][raspberry]                 | ![pimoroni_pirate][pimoroni_pirate]         |
@@ -48,7 +48,7 @@ I will add an own test-loop for all icons later.
 | ![fog][fog-sd]                 | ![partly-cloudy-day][partly-cloudy-day-sd] | ![partly-cloudy-night][partly-cloudy-night-sd] |
 | clear-night                    | clear-day                                  | cloudy                                         |
 | ![clear-night][clear-night-sd] | ![clear-day][clear-day-sd]                 | ![cloudy][cloudy-sd]                           |
-| rain                           | snow                                       | windy                                          |
+| rain                           | snow                                       | wind                                          |
 | ![rain][rain-sd]               | ![snow][snow-sd]                           | ![wind][wind-sd]                             |
 | error                          | raspberry                                  | pimoroni pirate                                |
 | ![error][error-sd]             | ![raspberry][raspberry-sd]                 | ![pimoroni_pirate][pimoroni_pirate-sd]         |
