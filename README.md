@@ -49,7 +49,7 @@ I will add an own test-loop for all icons later.
 | clear-night                    | clear-day                                  | cloudy                                         |
 | ![clear-night][clear-night-sd] | ![clear-day][clear-day-sd]                 | ![cloudy][cloudy-sd]                           |
 | rain                           | snow                                       | windy                                          |
-| ![rain][rain-sd]               | ![snow][snow-sd]                           | ![windy][windy-sd]                             |
+| ![rain][rain-sd]               | ![snow][snow-sd]                           | ![wind][wind-sd]                             |
 | error                          | raspberry                                  | pimoroni pirate                                |
 | ![error][error-sd]             | ![raspberry][raspberry-sd]                 | ![pimoroni_pirate][pimoroni_pirate-sd]         |
 
@@ -64,7 +64,7 @@ I will add an own test-loop for all icons later.
 
 [rain-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/rain.gif "rain"
 [snow-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/snow.gif "snow"
-[windy-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/windy.gif "windy"
+[wind-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/wind.gif "windy"
 
 [error-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/error.gif "error"
 [raspberry-sd]: https://github.com/LoveBootCaptain/unicornhat_weather_icons/blob/master/animation/SD/raspberry.gif "raspberry"
